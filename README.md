@@ -12,3 +12,9 @@ docker-compose up -d
 访问漏洞环境
 
 ![image-20210621151258879](图片/image-20210621151258879.png)
+
+# 参考文献
+
+- [Github：sqlsec/ssrf-vuls](https://github.com/sqlsec/ssrf-vuls)
+- [Github：LS95/gopher-redis-aut](https://github.com/LS95/gopher-redis-auth)
+

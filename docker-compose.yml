@@ -4,7 +4,7 @@ networks:
   ssrf_v:
     ipam:
       config:
-        - subnet: 172.72.23.0/16
+        - subnet: 172.72.23.0/24
           gateway: 172.72.23.1
 
 services: 
